@@ -45,7 +45,7 @@ format:
     Mestrado (2020-2022)
   </div>
   <div class="timeline-nav-item">
-    Doutorado (2022-202?)
+    Doutorado (2022-2025)
   </div>
   </div>
 :::
@@ -78,7 +78,7 @@ format:
     Mestrado (2020-2022)
   </div>
   <div class="timeline-nav-item dimmed">
-    Doutorado (2022-202?)
+    Doutorado (2022-2025)
   </div>
   </div>
 :::
@@ -123,7 +123,7 @@ format:
     Mestrado (2020-2022)
   </div>
   <div class="timeline-nav-item dimmed">
-    Doutorado (2022-202?)
+    Doutorado (2022-2025)
   </div>
   </div>
 :::
@@ -173,7 +173,7 @@ format:
     Mestrado (2020-2022)
   </div>
   <div class="timeline-nav-item dimmed">
-    Doutorado (2022-202?)
+    Doutorado (2022-2025)
   </div>
   </div>
 :::
@@ -221,7 +221,7 @@ format:
     Mestrado (2020-2022)
   </div>
   <div class="timeline-nav-item highlight">
-    Doutorado (2022-202?)
+    Doutorado (2022-2025)
   </div>
   </div>
 :::
@@ -341,7 +341,7 @@ format:
 
 ::: {.column width="81%"}
 
-* **Artigo (Base da Tese):** **_"Spatial generalized gamma ARMA model: An analysis of the Brazilian floods in Rio Grande do Sul"_**
+* **Artigo (Tese):** **_"Spatial generalized gamma ARMA model: An analysis of the Brazilian floods in Rio Grande do Sul"_**
     * **Status:** Submetido (02/08/2025) ao *SMAI Journal of Computational Mathematics*
     * **Ranking:** Q1 (Scimago) em Estatística e Probabilidade
     * **Coautores:** Profs. Abraão D. C. Nascimento e Francisco J. A. Cysneiros
@@ -503,8 +503,37 @@ format:
 
 
 ## 4. Atividades profissionais e de extensão
+
 <hr/>
-aa 
+
+### Graduação (UFPE, 2016 - 2019)
+
+* **Monitorias (DE/UFPE):**
+    * Probabilidade 2 (3º semestre)
+    * Probabilidade 4 (7º semestre)
+    * Inferência Estatística 2 (8º semestre)
+* **Iniciação Científica (CNPq):**
+    * Orientador: Prof. Francisco J. A. Cysneiros (4º-5º semestres).
+* **Estágio (Tribunal Regional Federal da 5ª Região):**
+    * Elaboração de relatórios mensais (status de processos).
+    * Desenvolvimento de modelagem de séries temporais para previsão de volume processual.
+* **TCC: "Ensaios sobre Geometria Diferencial e Estatística"**
+    * Orientador: Prof. Abraão D. C. Nascimento (Dez 2019).
+
+---
+
+### Mestrado (UFPE, 2020 - 2022)
+
+* **Bolsista CAPES** (Orientador: Prof. Abraão D. C. Nascimento).
+* **Dissertação: "Processo ARMA Gama Generalizado Aplicado a Imagens de Amplitude e Intensidade SAR"** (Fev 2022).
+
+
+### Doutorado (UFPE, 2022 - Atual)
+
+* **Bolsista CAPES** (Orientador: Prof. Abraão D. C. Nascimento; Coorientador: Prof. Francisco J. A. Cysneiros).
+* **Doutorado Sanduíche:** Aluno visitante no IITB (Índia).
+* **Estágio Docência:** Atuação na graduação em Estatística (UFPE).
+
 
 ## 5. Rede de Colaboração
 <hr/>
@@ -613,6 +642,21 @@ aa
 ::: {.column width="81%"}
 
 
+* **Disciplinas de Base (Apto)**
+  * Probabilidade IV
+  * Inferência Estatística I e II
+  * Modelos de Regressão I e II
+  * Séries Temporais I e II
+  
+
+
+* **Disciplinas Novas (Proposta)**
+  * Introdução a Geometria da Informação
+  * Modelo ARMA Espacial (Gaussiano)
+  * Modelos ARMA Espacial não Gaussianos
+  * Modelagem de Dados de Sensoriamento Remoto por Radar de Abertura Sintética (SAR)
+
+
 :::
 
 :::
@@ -643,6 +687,17 @@ aa
 
 ::: {.column width="81%"}
 
+* **Consolidar**
+  * Modelo ARMA Gama Generalizado Espacial e desdobramentos
+  * Rede de colaboração com pesquisadores nacionais e internacionais
+  
+
+* **Inovar**
+  * Criação de um pacote em R
+  * Livro sobre modelos ARMA espaciais
+  * Novas linhas de pesquisa 
+  * No longo prazo, colaborar com a criação de um laboratório de sensoriamento remoto por SAR no DE/UFPE
+
 
 :::
 
@@ -673,6 +728,9 @@ aa
 
 ::: {.column width="81%"}
 
+- Tutoriais de R, Python, LaTeX e Quarto para a comunidade.
+
+- Seminários e Minicursos
 
 :::
 
