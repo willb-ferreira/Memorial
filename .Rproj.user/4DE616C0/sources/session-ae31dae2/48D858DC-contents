@@ -26,6 +26,21 @@ format:
 # bibliography: Thesis.bib
 ---
 
+## Roteiro da apresentação
+
+::: {.nonincremental}
+Nesta apresentação, abordarei os seguintes eixos da minha trajetória:
+
+1.  Trajetória Acadêmica
+2.  Publicações
+3.  Participações em Congressos
+4.  Atividades Profissionais e de Extensão
+5.  Rede de Colaboração
+:::
+
+---
+
+
 
 ## 1. Trajetória Acadêmica
 <hr/>
@@ -248,13 +263,13 @@ format:
     Artigos Publicados 
   </div>
   <div class="timeline-nav-item">
-    Artigos Submetidos 
+    Artigos Publicados em Congressos 
   </div>
   <div class="timeline-nav-item">
     Artigos em Produção 
   </div>
   <div class="timeline-nav-item">
-    Artigos Publicados em Congressos 
+    Artigos Submetidos 
   </div>
   </div>
 :::

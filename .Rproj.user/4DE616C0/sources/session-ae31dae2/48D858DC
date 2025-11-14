@@ -3,7 +3,7 @@
     "path": "~/GitHub/Memorial/Memorial.qmd",
     "project_path": "Memorial.qmd",
     "type": "quarto_markdown",
-    "hash": "431695185",
+    "hash": "2852501016",
     "contents": "",
     "dirty": false,
     "created": 1762856394555.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "1940:1286",
-        "cursorPosition": "175,116",
-        "scrollLine": "163"
+        "cursorPosition": "266,8",
+        "scrollLine": "256"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763077796,
+    "lastKnownWriteTime": 1763112543,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763077796761,
+    "last_content_update": 1763112543300,
     "read_only": false,
     "read_only_alternatives": []
 }
