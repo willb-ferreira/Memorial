@@ -144,6 +144,8 @@ Nesta apresentação, abordarei os seguintes eixos da minha trajetória:
 
 ::: {.column width="81%"}
 
+::: {.nonincremental}
+
 - Ingressei no Bacharelado em Estatística da UFPE em 2016
 
 - Monitorias de Probabilidade 2, 4 e Inferência Estatística 2 
@@ -154,6 +156,8 @@ Nesta apresentação, abordarei os seguintes eixos da minha trajetória:
 
 - Abd El-Bar AMT, da Silva WBF, Nascimento ADC. *An Extended log-Lindley-G Family: Properties and Experiments in Repairable Data*. Mathematics. 2021; 9(23):3108. https://doi.org/10.3390/math9233108
 
+
+:::
 
 :::
 
@@ -188,15 +192,28 @@ Nesta apresentação, abordarei os seguintes eixos da minha trajetória:
 
 ::: {.column width="81%"}
 
+::: {.nonincremental}
+
+::: {.fragment}
+
 - Ingressei no mestrado em Estatística da UFPE em março de 2020, sob orientação do Prof. Dr. Abraão D. C. Nascimento
 
 - Pandemia COVID-19 e EAD
+
+
+:::
+
+
+:::
+
 
 - Defesa do Mestrado em Fevereiro de 2022, manuscrito intitulado como *"Processo ARMA Gama Generalizado Aplicado a Imagens de Amplitude e Intensidade SAR"* sob orientação do Prof. Dr. Abraão D. C. Nascimento
 
   - da Silva, W. B. F., Almeida-Junior, P. M., & Nascimento, A. D. C. (2023). *Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data*. Environmetrics, 34(7), e2816. https://doi.org/10.1002/env.2816
 
     - Prêmio de *Top 10 most-cited papers published by Environmetrics in 2023*, concedido pela Editora Wiley em 2025
+
+
 
 :::
 
