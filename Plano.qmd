@@ -105,6 +105,9 @@ Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
 ::: {.column width="81%"}
 
 
+::: {.nonincremental}
+
+::: {.fragment}
 
 * **Disciplinas de Base (Apto)**
   * Graduação:
@@ -118,8 +121,10 @@ Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
     * Modelos Lineares Generalizados
 
 
+:::
 
 
+::: {.fragment}
 
 * **Novas Disciplinas (Proposta)**
   * Introdução a Geometria da Informação (PGEST)
@@ -127,7 +132,9 @@ Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
   * Modelos ARMA Espaciais não Gaussianos (PGEST)
   * Modelagem de Dados de Sensoriamento Remoto por Radar de Abertura Sintética (SAR) (Graduação)
 
+:::
 
+:::
 
 
 :::
@@ -163,6 +170,10 @@ Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
 
 ::: {.column width="81%"}
 
+::: {.nonincremental}
+
+::: {.fragment}
+
 * **Consolidar**
   * Modelo ARMA Gama Generalizado Espacial e desenvolvimentos teóricos
   * Rede de colaboração com pesquisadores nacionais e internacionais
@@ -170,17 +181,24 @@ Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
   * Participação em congressos e eventos científicos
   * Pós-doc assim que possível
 
+:::
+
+
+::: {.fragment}
+
+
 * **Inovar**
   * Participação em bancas de TCC, dissertação e tese
   * Novas linhas de pesquisa 
   * Submissão de projetos a agências de fomento (CNPq, FACEPE, CAPES)
   * Credenciamento no PGEST
   * Orientação de alunos de IC, TCC, Mestrado e Doutorado
-  * Coautoria de artigos com discentes
-  * Criação de um pacote em R
   * Livro sobre modelos ARMA espaciais
   * No longo prazo, colaborar com a criação de um laboratório de sensoriamento remoto por SAR no DE/UFPE
 
+:::
+
+:::
 
 :::
 
