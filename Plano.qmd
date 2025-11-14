@@ -1,0 +1,558 @@
+---
+title: "Defesa de Plano de Trabalho"
+subtitle: "Edital Nº 08/2025 - UFPE"
+author: "Willams Batista Ferreira da Silva"
+lang: pt-BR  # <--- ADICIONADO: Define o idioma do documento
+date: "2025-11-14" # <--- ALTERADO: Formato ISO para processamento
+institute: "<br> Departamento de Estatística <br> Centro de Ciências Exatas e da Natureza (CCEN) <br> Universidade Federal de Pernambuco (UFPE) <br> <br> "
+
+format: 
+  revealjs:
+    incremental: true 
+    math: true
+    center: true
+    scrollable: true
+    transition: fade
+    theme: serif
+    slide-number: c/t
+    show-slide-number: all
+    date-format: "DD MMMM YYYY" # <--- MANTIDO: Agora funcionará com 'lang'
+    citations: true
+    fontsize: 140%
+    # ATUALIZEI E TRADUZI O RODAPÉ PARA O CONTEXTO
+    footer: "Departamento de Estatística - CCEN/UFPE - Novembro 2025" 
+    number-depth: 2 
+    mathjax: true
+---
+
+
+
+## Plano de Trabalho (2026-2028)
+<hr/>
+::: {.columns}
+
+::: {.column width="19%"}
+
+::: {.nonincremental}
+<div class="timeline-nav">
+  <div class="timeline-nav-item">
+    Ensino
+  </div>
+  <div class="timeline-nav-item">
+    Pesquisa
+  </div>
+  <div class="timeline-nav-item">
+    Extensão
+  </div>
+  <div class="timeline-nav-item">
+    Gestão
+  </div>
+  </div>
+:::
+
+:::
+
+::: {.column width="81%"}
+
+
+:::
+
+:::
+
+
+
+## Plano de Trabalho (2026-2028)
+<hr/>
+::: {.columns}
+
+::: {.column width="19%"}
+
+::: {.nonincremental}
+<div class="timeline-nav">
+  <div class="timeline-nav-item highlight">
+    Ensino
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Pesquisa
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Extensão
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Gestão
+  </div>
+  </div>
+:::
+
+:::
+
+::: {.column width="81%"}
+
+
+
+* **Disciplinas de Base (Apto)**
+  * Graduação:
+    * Probabilidade II e IV
+    * Inferência Estatística I e II
+    * Modelos de Regressão I e II
+    * Processamento de Imagens
+  * Pós-Graduação:
+    * Inferência Estatística
+    * Teoria Assintótica
+    * Modelos Lineares Generalizados
+
+
+
+
+
+* **Novas Disciplinas (Proposta)**
+  * Introdução a Geometria da Informação (PGEST)
+  * Modelo ARMA Espacial (Gaussiano) (Graduação)
+  * Modelos ARMA Espaciais não Gaussianos (PGEST)
+  * Modelagem de Dados de Sensoriamento Remoto por Radar de Abertura Sintética (SAR) (Graduação)
+
+
+
+
+:::
+
+:::
+
+
+
+## Plano de Trabalho (2026-2028)
+<hr/>
+::: {.columns}
+
+::: {.column width="19%"}
+
+::: {.nonincremental}
+<div class="timeline-nav">
+  <div class="timeline-nav-item dimmed">
+    Ensino
+  </div>
+  <div class="timeline-nav-item highlight">
+    Pesquisa
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Extensão
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Gestão
+  </div>
+  </div>
+:::
+
+:::
+
+::: {.column width="81%"}
+
+* **Consolidar**
+  * Modelo ARMA Gama Generalizado Espacial e desenvolvimentos teóricos
+  * Rede de colaboração com pesquisadores nacionais e internacionais
+  * Publicação de artigos em periódicos Q1 no Scimago
+  * Participação em congressos e eventos científicos
+  * Pós-doc assim que possível
+
+* **Inovar**
+  * Participação em bancas de TCC, dissertação e tese
+  * Novas linhas de pesquisa 
+  * Submissão de projetos a agências de fomento (CNPq, FACEPE, CAPES)
+  * Credenciamento no PGEST
+  * Orientação de alunos de IC, TCC, Mestrado e Doutorado
+  * Coautoria de artigos com discentes
+  * Criação de um pacote em R
+  * Livro sobre modelos ARMA espaciais
+  * No longo prazo, colaborar com a criação de um laboratório de sensoriamento remoto por SAR no DE/UFPE
+
+
+:::
+
+:::
+
+
+## Plano de Trabalho (2026-2028)
+<hr/>
+::: {.columns}
+
+::: {.column width="19%"}
+
+::: {.nonincremental}
+<div class="timeline-nav">
+  <div class="timeline-nav-item dimmed">
+    Ensino
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Pesquisa
+  </div>
+  <div class="timeline-nav-item highlight">
+    Extensão
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Gestão
+  </div>
+  </div>
+:::
+
+:::
+
+::: {.column width="81%"}
+
+- Tutoriais de R, Python, LaTeX e Quarto para a comunidade.
+
+- Seminários e Minicursos
+
+:::
+
+:::
+
+
+## Plano de Trabalho (2026-2028)
+<hr/>
+::: {.columns}
+
+::: {.column width="19%"}
+
+::: {.nonincremental}
+<div class="timeline-nav">
+  <div class="timeline-nav-item dimmed">
+    Ensino
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Pesquisa
+  </div>
+  <div class="timeline-nav-item dimmed">
+    Extensão
+  </div>
+  <div class="timeline-nav-item highlight">
+    Gestão
+  </div>
+  </div>
+:::
+
+:::
+
+::: {.column width="81%"}
+
+- Comissões acadêmicas e administrativas do DE/UFPE.
+
+- Elaboração e participação em eventos institucionais.
+
+- Uma década de Universidade Federal de Pernambuco.
+
+:::
+
+:::
+
+
+## Plano de Trabalho (2026-2028): Cronograma Estimado
+
+<table class="cronograma-table">
+  
+  <thead>
+    <tr>
+      <th>Ano</th>
+      <th>Atividades de Ensino</th>
+      <th>Atividades de Pesquisa</th>
+      <th>Atividades de Extensão</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    
+    <tr>
+      <td class="ano">2026</td>
+      <td>
+        <ul>
+          <li>Ministrar 2-3 disciplinas por semestre.</li>
+          <li>Aprimorar materiais didáticos sob <i>feedback</i> dos discentes.</li>
+          <li>Orientar alunos em Trabalhos de Conclusão de Curso (TCCs).</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Submeter 2-3 artigos (da tese) a periódicos Q1.</li>
+          <li>Iniciar novas linhas de pesquisa.</li>
+          <li>Submeter projeto ao edital PIBIC/UFPE.</li>
+          <li>Solicitar credenciamento no PPGEST.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Estruturar o projeto de extensão para tutoriais de R, Python, LaTeX e Quarto para a comunidade.</li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td class="ano">2027</td>
+      <td>
+        <ul>
+          <li>Ministrar disciplinas na graduação e na pós-graduação.</li>
+          <li>Propor uma nova disciplina eletiva.</li>
+          <li>Orientar TCCs e coorientar dissertações de mestrado.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Submeter 2-3 artigos com novas pesquisas.</li>
+          <li>Submeter projetos a agências de fomento (FACEPE, CNPq).</li>
+          <li>Orientar bolsistas de IC e participar de congressos.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Submeter o projeto de extensão ao colegiado e iniciar as atividades-piloto.</li>
+        </ul>
+      </td>
+    </tr>
+    
+    <tr>
+      <td class="ano">2028</td>
+      <td>
+        <ul>
+          <li>Consolidar as disciplinas ministradas.</li>
+          <li>Orientar TCCs e dissertações de mestrado.</li>
+          <li>Coorientar teses de doutorado.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Submeter 2-3 artigos, incluindo coautoria com discentes.</li>
+          <li>Submeter projeto de fomento para bolsas de mestrado.</li>
+          <li>Participar da organização de eventos científicos na UFPE.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Consolidar o projeto de extensão e ouvir <i>feedback</i> dos participantes.</li>
+        </ul>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
+## Obrigado!
+
+Agradeço à Egrégia Banca Examinadora pela atenção.
+
+
+::: {.columns}
+
+::: {.column width="34%"}
+<br>
+
+**Willams Batista Ferreira da Silva**
+
+<br>
+
+<div class="contact-info">
+  <a href="mailto:willams.bfsilva@ufpe.br">
+    <i class="fas fa-envelope icon"></i> willams.bfsilva@ufpe.br
+  </a>
+  <br>
+  <a href="http://lattes.cnpq.br/4598185947247904">
+    <i class="fas fa-id-card icon"></i> Lattes (Digital)
+  </a>
+  <br>
+  <a href="https://orcid.org/0000-0002-3680-6212">
+    <i class="fab fa-orcid icon"></i> ORCID (Digital)
+  </a>
+</div>
+:::
+
+::: {.column width="33%"}
+ Lattes (Scan)
+```{r}
+  #| echo: false
+  #| fig.align: "center"
+  #| out.width: "25px"
+  #| warning: false
+  #| message: false
+  
+  # Certifique-se de ter o pacote: install.packages("qrcode")
+  library(qrcode)
+  q1 <-qr_code("[http://lattes.cnpq.br/4598185947247904](http://lattes.cnpq.br/4598185947247904)")
+  plot(q1, main = "Lattes")
+```
+:::
+::: {.column width="33%"}
+ORCID (Scan)
+```{r}
+  #| echo: false
+  #| fig.align: "center"
+  #| out.width: "25px"
+  #| warning: false
+  #| message: false
+
+library(qrcode)
+q2 <- qr_code("[https://orcid.org/0000-0002-3680-6212](https://orcid.org/0000-0002-3680-6212)")
+plot(q2)
+```
+  
+:::
+
+:::
+
+<!-- <style> -->
+<!-- /* O container da navegação */ -->
+<!-- .timeline-nav { -->
+<!--   display: flex; -->
+<!--   justify-content: space-around; -->
+<!--   width: 100%; -->
+<!--   margin-top: 40px; -->
+<!-- } -->
+
+<!-- /* O item principal (a caixa) */ -->
+<!-- .timeline-nav-item { -->
+<!--   padding: 15px 20px; /* Ajustei o padding */ -->
+<!--   border: 2px solid #ccc; -->
+<!--   border-radius: 8px; -->
+<!--   width: 30%; /* Pode precisar de ajuste de largura */ -->
+<!--   text-align: left; /* ALINHA O CONTEÚDO À ESQUERDA */ -->
+<!--   font-size: 1em; /* Fonte base */ -->
+<!--   transition: all 0.3s ease-in-out; -->
+<!--   background-color: #f9f9f9; /* Fundo leve */ -->
+<!-- } -->
+
+<!-- /* Título (Graduação, Mestrado...) dentro da caixa */ -->
+<!-- .timeline-nav-item h4 { -->
+<!--   font-size: 1.1em; -->
+<!--   font-weight: 700; -->
+<!--   color: #333; -->
+<!--   text-align: center; /* CENTRALIZA SÓ O TÍTULO */ -->
+<!--   margin-top: 0; -->
+<!--   margin-bottom: 12px; -->
+<!--   padding-bottom: 5px; -->
+<!--   border-bottom: 1px solid #ddd; /* Linha sutil */ -->
+<!-- } -->
+
+<!-- /* A lista de subtópicos */ -->
+<!-- .subtopic-list { -->
+<!--   font-size: 0.9em; /* Fonte menor */ -->
+<!--   color: #555; -->
+<!--   list-style-position: inside; /* 'Bullet' para dentro */ -->
+<!--   padding-left: 5px; /* Pequeno recuo */ -->
+<!--   margin-bottom: 0; -->
+<!-- } -->
+
+<!-- .subtopic-list li { -->
+<!--   margin-bottom: 5px; /* Espaçamento entre subtópicos */ -->
+<!-- } -->
+
+<!-- /* ESTILOS DE FOCO (exatamente como antes) -->
+<!--   Eles ainda funcionam, aplicando na caixa inteira! -->
+<!-- */ -->
+<!-- .timeline-nav-item.highlight { -->
+<!--   border-color: #007b5e;  -->
+<!--   color: #005f48;  -->
+<!--   transform: scale(1.05);  -->
+<!--   box-shadow: 0 5px 15px rgba(0,0,0,0.15); -->
+<!--   background-color: #fff; /* Fundo branco no destaque */ -->
+<!-- } -->
+
+<!-- .timeline-nav-item.dimmed { -->
+<!--   opacity: 0.3;  -->
+<!--   transform: scale(0.95);  -->
+<!--   filter: grayscale(80%); -->
+<!-- } -->
+<!-- </style> -->
+
+<style>
+/* Este container vai na coluna da esquerda.
+Ele empilha as caixas verticalmente.
+*/
+.timeline-nav-sidebar {
+  display: flex;
+  flex-direction: column;   /* Empilha as caixas */
+  justify-content: center; /* Começa pelo topo */
+  padding-right: 15px;       /* Espaço entre a sidebar e o conteúdo */
+  border-right: 2px solid #eee; /* Linha vertical separadora */
+  height: 100%; /* Tenta ocupar a altura */
+}
+
+/* Cada caixa/item da sidebar.
+Feito para ser pequeno e discreto.
+*/
+.timeline-nav-item {
+  padding: 15px 2px; /* Padding menor = caixa menor */
+  border: 2px solid #ccc;
+  border-radius: 1px;
+  width: 90%;         /* 100% da coluna da esquerda */
+  margin-bottom: 15px; /* Espaço entre caixas */
+  text-align: center;  /* Centraliza o texto */
+  font-size: 1em;   /* Fonte menor = caixa menor */
+  font-weight: 500;
+  transition: all 0.3s ease-in-out;
+  background-color: #f9f9f9;
+}
+
+/* --- Estilos de Foco (A lógica de sempre) --- */
+
+.timeline-nav-item.highlight {
+  border-color: #007b5e; /* Verde UFPE */
+  color: #005f48;
+  font-weight: 700; /* Mais negrito */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+.timeline-nav-item.dimmed {
+  opacity: 0.5; /* Mais visível, já que é um menu */
+  filter: grayscale(50%);
+  background-color: #fafafa;
+  border-color: #eee;
+}
+</style>
+
+
+<style>
+.cronograma-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8em; /* Ajusta o tamanho p/ caber no slide */
+}
+.cronograma-table th, .cronograma-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top; /* Alinha o texto no topo */
+}
+.cronograma-table thead th {
+  background-color: #f3f3f3; /* Cinza 15% */
+  text-align: center;
+}
+.cronograma-table td ul {
+  margin: 0;
+  padding-left: 18px; /* Recuo dos bullets */
+}
+.cronograma-table .ano {
+  width: 10%;
+  text-align: center;
+  font-weight: bold;
+  vertical-align: middle; /* Centraliza o 'Ano 1' */
+}
+</style>
+
+<style>
+.contact-info {
+  font-size: 0.85em; /* Tamanho da fonte dos contatos */
+  text-align: left;  /* Alinha à esquerda no slide */
+  margin-top: 25px;
+  line-height: 1.9;  /* Espaçamento entre as linhas */
+}
+.contact-info a {
+  text-decoration: none; /* Remove o sublinhado */
+  color: #333; /* Cor do texto */
+}
+.contact-info a:hover {
+  color: #007b5e; /* Cor da UFPE ao passar o mouse */
+}
+/* Estilo para os ícones */
+.contact-info .icon {
+  margin-right: 12px; /* Espaço entre o ícone e o texto */
+  font-size: 1.3em;   /* Tamanho do ícone */
+  color: #007b5e;    /* Cor do ícone */
+}
+</style>
