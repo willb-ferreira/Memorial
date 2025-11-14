@@ -27,6 +27,23 @@ format:
 
 
 
+## Roteiro da apresentação
+
+::: {.nonincremental}
+Nesta apresentação, abordarei os seguintes temas do Plano de Trabalho:
+
+1.  Ensino
+2.  Pesquisa
+3.  Extensão
+4.  Gestão
+5.  Cronograma Estimado de Atividades
+:::
+
+---
+
+
+
+
 ## Plano de Trabalho (2026-2028)
 <hr/>
 ::: {.columns}
