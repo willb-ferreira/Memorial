@@ -5,7 +5,7 @@
     "type": "quarto_markdown",
     "hash": "2506048364",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1763063546299.0,
     "source_on_save": false,
     "relative_order": 3,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763112754,
+    "lastKnownWriteTime": 1763113066,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763112763086,
+    "last_content_update": 1763113066259,
     "read_only": false,
     "read_only_alternatives": []
 }
